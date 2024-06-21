@@ -1,3 +1,0 @@
-1) Create a conda environment and activate it. Then make sure you have a repository on github and do the steps so that
-    you can push this into the github repo. After that create you .gitignore file on github and pull the changes from vscode.
-    then add requirments.txt and setup.py.
